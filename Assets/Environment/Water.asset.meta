@@ -1,0 +1,36 @@
+fileFormatVersion: 2
+guid: 4ac9ec434a104504581998d2e8334d37
+timeCreated: 1468430266
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg3202\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"New document 4\">\n
+    \ <defs\n     id=\"defs3204\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.98994949\"\n     inkscape:cx=\"291.78517\"\n
+    \    inkscape:cy=\"619.29547\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1057\"\n
+    \    inkscape:window-x=\"-8\"\n     inkscape:window-y=\"-8\"\n     inkscape:window-maximized=\"1\"
+    />\n  <metadata\n     id=\"metadata3207\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <path\n       style=\"fill:#ffffff;stroke:#ffffff;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \      d=\"m 44.817972,539.51385 0,-96.42857 c 17.523418,-23.68969 26.127867,-15.88731
+    34.285717,0 24.276761,-26.28938 26.613011,-3.21261 37.142861,1.42857 21.93736,-25.94347
+    29.47915,-10.75675 38.57143,0 20.12785,-29.96135 32.24012,-13.83308 45,-1.42857
+    19.70422,-29.75878 36.95495,-23.94194 52.85715,1.42857 16.19048,-29.39712 32.38095,-28.93604
+    48.57143,0.71428 18.26048,-37.40575 33.36475,-24.31217 47.85714,-1.42857 16.47999,-29.34837
+    31.85216,-26.56977 46.42857,-0.71428 20.41197,-34.02569 39.33493,-23.38121 57.85714,-0.71429
+    14.52381,-23.93542 29.04762,-32.90486 43.57143,0 14.5666,-19.51623 29.27572,-35.04188
+    45.71429,-2.14286 17.61904,-24.7619 33.33333,-24.76191 47.14285,0 20.83409,-32.46686
+    36.18153,-17.38274 51.42858,-1.42857 13.14436,-11.05195 25.00271,-31.96332 43.57143,-1.42857
+    l -1.42858,96.42857 z\"\n       id=\"path3214-7\"\n       inkscape:connector-curvature=\"0\"\n
+    \      sodipodi:nodetypes=\"cccccccccccccccccc\" />\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

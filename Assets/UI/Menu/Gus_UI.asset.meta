@@ -1,0 +1,50 @@
+fileFormatVersion: 2
+guid: 5d67d26bd08a4fe46b9f0307f229c038
+timeCreated: 1470876872
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg2983\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"Gus_UI.svg\">\n  <defs\n
+    \    id=\"defs2985\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#000000\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.98994949\"\n     inkscape:cx=\"232.27869\"\n
+    \    inkscape:cy=\"568.18876\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"1920\"\n     inkscape:window-height=\"1057\"\n
+    \    inkscape:window-x=\"-8\"\n     inkscape:window-y=\"-8\"\n     inkscape:window-maximized=\"1\"
+    />\n  <metadata\n     id=\"metadata2988\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <g\n       id=\"g3084\">\n      <rect\n         ry=\"15.920624\"\n         y=\"353.5051\"\n
+    \        x=\"303.61908\"\n         height=\"134.85703\"\n         width=\"89.904694\"\n
+    \        id=\"rect2987\"\n         style=\"fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.92709482;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         inkscape:transform-center-y=\"23.113295\"\n         ry=\"1.0469089\"\n
+    \        y=\"487.46161\"\n         x=\"327.85715\"\n         height=\"45.515446\"\n
+    \        width=\"8.5714283\"\n         id=\"rect3064\"\n         style=\"fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.71114498;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         inkscape:transform-center-y=\"32.640162\"\n         inkscape:transform-center-x=\"20.130012\"\n
+    \        transform=\"matrix(0.89973672,0.43643307,-0.43643307,0.89973672,0,0)\"\n
+    \        ry=\"1.657889\"\n         y=\"214.54674\"\n         x=\"441.96356\"\n
+    \        height=\"72.078445\"\n         width=\"8.5714283\"\n         id=\"rect3064-8\"\n
+    \        style=\"fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.89491427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         ry=\"1.657889\"\n         y=\"373.79074\"\n         x=\"324.28577\"\n
+    \        height=\"14.285714\"\n         width=\"12.857142\"\n         id=\"rect3156\"\n
+    \        style=\"fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         ry=\"1.657889\"\n         y=\"373.79047\"\n         x=\"354.28571\"\n
+    \        height=\"14.285714\"\n         width=\"12.857142\"\n         id=\"rect3156-0\"\n
+    \        style=\"fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:1.10000002;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         inkscape:transform-center-y=\"32.640162\"\n         inkscape:transform-center-x=\"-20.130004\"\n
+    \        transform=\"matrix(-0.89973672,0.43643307,0.43643307,0.89973672,0,0)\"\n
+    \        ry=\"1.657889\"\n         y=\"517.86786\"\n         x=\"-183.35342\"\n
+    \        height=\"72.078445\"\n         width=\"8.5714283\"\n         id=\"rect3064-8-9\"\n
+    \        style=\"fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.89491427;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         inkscape:transform-center-y=\"23.113295\"\n         ry=\"1.0469089\"\n
+    \        y=\"487.46158\"\n         x=\"361.78571\"\n         height=\"45.515446\"\n
+    \        width=\"8.5714283\"\n         id=\"rect3064-4\"\n         style=\"fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.71114498;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

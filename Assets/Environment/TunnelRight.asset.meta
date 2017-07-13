@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: fe59d852752dace45a16b8389d3b9c96
+timeCreated: 1468369726
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg4999\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"New document 52\">\n
+    \ <defs\n     id=\"defs5001\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.35\"\n     inkscape:cx=\"375\"\n
+    \    inkscape:cy=\"520\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"948\"\n     inkscape:window-height=\"1048\"\n
+    \    inkscape:window-x=\"963\"\n     inkscape:window-y=\"0\"\n     inkscape:window-maximized=\"0\"
+    />\n  <metadata\n     id=\"metadata5004\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <path\n       sodipodi:nodetypes=\"cssssssccsssc\"\n       inkscape:connector-curvature=\"0\"\n
+    \      id=\"path4427\"\n       d=\"m 171.66088,487.56504 c -10.90521,-9.8147 -5.51252,-81.07058
+    19.44189,-77.76759 15.4831,2.04936 23.44464,-9.72095 34.30924,-10.86459 10.86459,-1.14364
+    28.01919,-1.71546 52.60748,-3.43093 24.58829,-1.71545 67.4748,4.00275 91.49129,-2.28727
+    24.01645,-6.29003 37.16831,-10.8646 50.89202,-10.29277 13.72368,0.57181 57.18204,7.43367
+    64.61571,7.43367 7.43367,0 32.59378,24.01645 32.59378,24.01645 l -8.00551,36.02469
+    c 0,0 -94.35036,0.57183 -114.9359,1.71547 -20.58554,1.14363 -50.89203,4.57456
+    -73.19304,12.00823 -22.301,7.43366 -53.75112,0 -83.4858,7.43366 -29.73465,7.43367
+    -66.33116,16.01098 -66.33116,16.01098 z\"\n       style=\"fill:#000000;stroke:#000000;stroke-width:0.24047065px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"
+    />\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 87eb2ba1ed002794d82fa17687272ed2
+timeCreated: 1468445741
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg2\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"New document 1\">\n
+    \ <defs\n     id=\"defs4\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.98994949\"\n     inkscape:cx=\"305.9966\"\n
+    \    inkscape:cy=\"716.90371\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"958\"\n     inkscape:window-height=\"1048\"\n
+    \    inkscape:window-x=\"-7\"\n     inkscape:window-y=\"0\"\n     inkscape:window-maximized=\"0\"
+    />\n  <metadata\n     id=\"metadata7\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <g\n       id=\"g2989\">\n      <path\n         sodipodi:nodetypes=\"cccc\"\n
+    \        inkscape:connector-curvature=\"0\"\n         id=\"path2985\"\n         d=\"M
+    337.14286,93.790756 C 339.43443,158.76943 217.41894,236.01197 324.73387,314.97423
+    l 21.24655,0.62759 C 444.17331,229.96528 334.17963,151.45634 337.14286,93.790756
+    z\"\n         style=\"fill:#000000;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"
+    />\n      <rect\n         ry=\"0.69394439\"\n         y=\"312.15298\"\n         x=\"325.76505\"\n
+    \        height=\"55.714287\"\n         width=\"19.823271\"\n         id=\"rect2987\"\n
+    \        style=\"fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.76090491;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

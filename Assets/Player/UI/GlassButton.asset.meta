@@ -1,0 +1,52 @@
+fileFormatVersion: 2
+guid: d197312e732fa1a4d9427f00fc21d15e
+timeCreated: 1466438979
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg3468\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"GlassButton.svg\">\n
+    \ <defs\n     id=\"defs3470\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"1.4\"\n     inkscape:cx=\"267.97819\"\n
+    \    inkscape:cy=\"653.70792\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"g3476\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"958\"\n     inkscape:window-height=\"1048\"\n
+    \    inkscape:window-x=\"953\"\n     inkscape:window-y=\"0\"\n     inkscape:window-maximized=\"0\"
+    />\n  <metadata\n     id=\"metadata3473\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <g\n       transform=\"translate(31.887858,60.883042)\"\n       id=\"g3476\">\n
+    \     <g\n         id=\"g3745\">\n        <rect\n           style=\"opacity:0.8;fill:#808080;fill-opacity:0.37254902;fill-rule:nonzero;stroke:#808080;stroke-width:0.91719151;stroke-miterlimit:4;stroke-opacity:0.37254902;stroke-dasharray:none\"\n
+    \          id=\"rect3329\"\n           width=\"149.08281\"\n           height=\"149.08281\"\n
+    \          x=\"221.42789\"\n           y=\"390.50916\"\n           ry=\"74.541405\"
+    />\n        <g\n           style=\"fill:#999999;stroke:#999999\"\n           id=\"g3728\">\n
+    \         <g\n             style=\"fill:#999999;stroke:#999999\"\n             transform=\"matrix(1.1008288,0,0,1.1008288,-85.618544,-68.627137)\"\n
+    \            id=\"g3206\">\n            <g\n               style=\"fill:#999999;stroke:#999999\"\n
+    \              id=\"g3738\">\n              <path\n                 style=\"opacity:0.80000000000000004;fill:#999999;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \                d=\"m 325.54922,441.66369 42.65138,-0.19124 c -5.33049,16.49213
+    -4.93608,33.01599 -18.68782,44.19417 -0.013,14.93462 -0.84072,29.86924 1.01015,44.80386
+    -2.67563,1.80776 -5.07793,0.86945 -7.60677,-0.12255 2.275,-14.89552 0.70102,-29.79104
+    0.54096,-44.68656 -13.4946,-9.72564 -11.77541,-27.07517 -17.9079,-43.99768 z\"\n
+    \                id=\"path2993\"\n                 inkscape:connector-curvature=\"0\"\n
+    \                sodipodi:nodetypes=\"ccccccc\" />\n              <rect\n                 style=\"opacity:0.80000000000000004;fill:#999999;stroke:#999999;stroke-width:0.57108355000000000;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"\n
+    \                id=\"rect2995\"\n                 width=\"27.942812\"\n                 height=\"12.082933\"\n
+    \                x=\"332.72791\"\n                 y=\"525.10077\"\n                 ry=\"6.0414667\"\n
+    \                rx=\"13.971406\" />\n              <rect\n                 style=\"opacity:0.80000000000000004;fill:#999999;stroke:#999999;stroke-width:0.35865182000000001;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"\n
+    \                id=\"rect2995-3\"\n                 width=\"17.548643\"\n                 height=\"7.5883222\"\n
+    \                x=\"337.96054\"\n                 y=\"527.03119\"\n                 ry=\"3.7941611\"\n
+    \                rx=\"8.7743216\" />\n              <path\n                 style=\"opacity:0.80000000000000004;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \                d=\"m 349.86607,485.46486 -6.69642,0.53572 0.5797,8.56759 0.98279,-6.4917
+    z\"\n                 id=\"path3025\"\n                 inkscape:connector-curvature=\"0\"\n
+    \                sodipodi:nodetypes=\"ccccc\" />\n              <path\n                 style=\"fill:#999999;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"\n
+    \                d=\"m 331.74107,466.15681 30.05624,0.11358 c -2.2473,6.70309
+    -4.17987,12.84946 -11.95352,18.76185 l -7.04295,0.0496 c -7.89954,-6.52328 -9.20719,-13.00427
+    -10.34548,-16.5143 z\"\n                 id=\"path2997\"\n                 inkscape:connector-curvature=\"0\"\n
+    \                sodipodi:nodetypes=\"cccccc\" />\n            </g>\n          </g>\n
+    \       </g>\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

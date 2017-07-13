@@ -1,0 +1,32 @@
+fileFormatVersion: 2
+guid: 54088015b6c822349bc35f3f657bec8d
+timeCreated: 1466439460
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg3074\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"New document 1\">\n
+    \ <defs\n     id=\"defs3076\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"1.4\"\n     inkscape:cx=\"506.38522\"\n
+    \    inkscape:cy=\"615.08563\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"g3038\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"958\"\n     inkscape:window-height=\"1048\"\n
+    \    inkscape:window-x=\"953\"\n     inkscape:window-y=\"0\"\n     inkscape:window-maximized=\"0\"
+    />\n  <metadata\n     id=\"metadata3079\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title></dc:title>\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n
+    \ <g\n     inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <g\n       transform=\"translate(97.602143,-141.9741)\"\n       id=\"g3038\">\n
+    \     <g\n         id=\"g3225\">\n        <rect\n           style=\"opacity:0.8;fill:#808080;fill-opacity:0.37254902;fill-rule:nonzero;stroke:#808080;stroke-width:0.91719151;stroke-miterlimit:4;stroke-opacity:0.37254902;stroke-dasharray:none\"\n
+    \          id=\"rect3329\"\n           width=\"149.08281\"\n           height=\"149.08281\"\n
+    \          x=\"222.14217\"\n           y=\"391.22345\"\n           ry=\"74.541405\"
+    />\n        <path\n           sodipodi:nodetypes=\"cccc\"\n           inkscape:connector-curvature=\"0\"\n
+    \          id=\"path3223\"\n           d=\"m 259.98452,484.44869 c 23.50727,11.23375
+    48.08728,12.81151 74.28572,-0.17857 l -37.14286,-45.53571 z\"\n           style=\"fill:#999999;stroke:#999999;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1\"
+    />\n      </g>\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 

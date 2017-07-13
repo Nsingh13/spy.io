@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>10.0.20506</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <RootNamespace></RootNamespace>
+    <ProjectGuid>{8F79B4C4-3204-96D5-2E0E-82AB8466D1E2}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <AssemblyName>Assembly-CSharp</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>Temp\bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;UNITY_5_3_3;UNITY_5_3;UNITY_5;UNITY_PURCHASING;UNITY_ANALYTICS;ENABLE_NEW_BUGREPORTER;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITERENDERER_FLIPPING;ENABLE_SPRITES;ENABLE_SPRITE_POLYGON;ENABLE_TERRAIN;ENABLE_RAKNET;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ADS;ENABLE_CLOUD_HUB;ENABLE_CLOUD_PROJECT_ID;ENABLE_CLOUD_SERVICES_PURCHASING;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_SERVICES_BUILD;ENABLE_CLOUD_LICENSE;ENABLE_EDITOR_METRICS;ENABLE_EDITOR_METRICS_CACHING;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;ENABLE_ANDROID_ATLAS_ETC1_COMPRESSION;ENABLE_EDITOR_TESTS_RUNNER;UNITY_ANDROID;UNITY_ANDROID_API;ENABLE_SUBSTANCE;ENABLE_TEXTUREID_MAP;ENABLE_EGL;ENABLE_NETWORK;ENABLE_RUNTIME_GI;ENABLE_CRUNCH_TEXTURE_COMPRESSION;ENABLE_LOG_MIXED_STACKTRACE;ENABLE_UNITYWEBREQUEST;PLATFORM_SUPPORTS_ADS_ID;ENABLE_UNITYADS_RUNTIME;UNITY_UNITYADS_API;ENABLE_MONO;ENABLE_PROFILER;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;UNITY_TEAM_LICENSE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>Temp\bin\Release\</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.XML" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="UnityEngine">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor">
+      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\Appodeal\Api\Appodeal.cs" />
+     <Compile Include="Assets\Appodeal\AppodealDemo\AppodealDemo.cs" />
+     <Compile Include="Assets\Appodeal\Common\IAdListener.cs" />
+     <Compile Include="Assets\Appodeal\Common\IAppodealAdsClient.cs" />
+     <Compile Include="Assets\Appodeal\Common\IBannerAdListener.cs" />
+     <Compile Include="Assets\Appodeal\Common\IInterstitialAdListener.cs" />
+     <Compile Include="Assets\Appodeal\Common\INonSkippableVideoAdListener.cs" />
+     <Compile Include="Assets\Appodeal\Common\IPermissionGrantedListener.cs" />
+     <Compile Include="Assets\Appodeal\Common\IRewardedVideoAdListener.cs" />
+     <Compile Include="Assets\Appodeal\Common\ISkippableVideoAdListener.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AndroidAppodealClient.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AppodealBannerCallbacks.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AppodealInterstitialCallbacks.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AppodealNonSkippableVideoCallbacks.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AppodealPermissionCallbacks.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AppodealRewardedVideoCallbacks.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\Android\AppodealSkippableVideoCallbacks.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\AppodealAdsClientFactory.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\iOS\AppodealAdsClient.cs" />
+     <Compile Include="Assets\Appodeal\Platforms\iOS\AppodealObjCBridge.cs" />
+     <Compile Include="Assets\CNControls\NotImportant\Controller Examples\CameraFollowExample.cs" />
+     <Compile Include="Assets\CNControls\Scripts\CNAbstractController.cs" />
+     <Compile Include="Assets\CNControls\Scripts\CNJoystick.cs" />
+     <Compile Include="Assets\CNControls\Scripts\CNThrowableTouchpad.cs" />
+     <Compile Include="Assets\CNControls\Scripts\CNTouchpad.cs" />
+     <Compile Include="Assets\Network\NetworkManager.cs" />
+     <Compile Include="Assets\Network\NetworkPlayer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\CustomTypes.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Enums.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Extensions.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\FriendInfo.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\GizmoType.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\LoadbalancingPeer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\NetworkingPeer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonClasses.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonHandler.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonLagSimulationGui.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonNetwork.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonPlayer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonStatsGui.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonStreamQueue.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PhotonView.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\PingCloudRegions.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\RPC.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Room.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\RoomInfo.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\RpcIndexComponent.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\ServerSettings.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\SocketUdp.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\SocketWebTcp.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonAnimatorView.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonRigidbody2DView.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonRigidbodyView.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformView.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewPositionControl.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewPositionModel.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewRotationControl.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewRotationModel.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewScaleControl.cs" />
+     <Compile Include="Assets\Photon Unity Networking\Plugins\PhotonNetwork\Views\PhotonTransformViewScaleModel.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\ConnectAndJoinRandom.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\HighlightOwnedGameObj.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\InRoomChat.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\InRoomRoundTimer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\InRoomTime.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\InputToEvent.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\ManualPhotonViewAllocator.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\MoveByKeys.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\OnAwakeUsePhotonView.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\OnClickDestroy.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\OnClickInstantiate.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\OnClickLoadSomething.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\OnJoinedInstantiate.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\OnStartDelete.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PickupItem.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PickupItemSimple.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PickupItemSyncer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PointedAtGameObjectInfo.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PunPlayerScores.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PunTeams.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\PunTurnManager.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\QuitOnEscapeOrBack.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\ServerTime.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\ShowInfoOfPlayer.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\ShowStatusWhenConnecting.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\SmoothSyncMovement.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\SupportLogger.cs" />
+     <Compile Include="Assets\Photon Unity Networking\UtilityScripts\TimeKeeper.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatChannel.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatClient.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatDisconnectCause.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatEventCode.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatOperationCode.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatParameterCode.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatPeer.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatState.cs" />
+     <Compile Include="Assets\PhotonChatApi\ChatUserStatus.cs" />
+     <Compile Include="Assets\PhotonChatApi\IChatClientListener.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Animation\AnimationActions.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioCameraZoom.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioColor.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioEvent.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioMove.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioRotate.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioScale.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Audio\AudioSpectrum.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Camera\CameraSorting.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Layout\Instanced.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Layout\Instancer.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Layout\InstancerGrid.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Layout\InstancerSpiral.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Utils\OpenUrl.cs" />
+     <Compile Include="Assets\SVG Importer\Example Project\Realtime Import Demo\Scripts\RealtimeImportDemo.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Clipper\SVGClipPath.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Clipper\clipper.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Animation\SVGFrameAnimator.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Animation\SVGLegacyAnimator.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Data\QuadTree.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Data\SVGDepthTree.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Data\SVGImporterSettings.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Data\SVGLineData.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Fills\CCGradient.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Fills\SVGFill.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\CSS\CSSParser.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\RenderingEngine\SVGConicalGradientBrush.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\RenderingEngine\SVGGraphics.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\RenderingEngine\SVGLinearGradientBrush.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\RenderingEngine\SVGRadialGradientBrush.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicShapes\SVGCircleElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicShapes\SVGEllipseElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicShapes\SVGLineElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicShapes\SVGPolygonElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicShapes\SVGPolylineElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicShapes\SVGRectElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicTypes\SVGColor.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicTypes\SVGLength.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicTypes\SVGPaintable.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicTypes\SVGParentable.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\BasicTypes\SVGTransformable.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Coordinate_Transform_Units\SVGMatrix.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Coordinate_Transform_Units\SVGTransform.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Coordinate_Transform_Units\SVGTransformList.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\DocumentStructure\SVGDocument.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\DocumentStructure\SVGElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\GradientsNPatterns\SVGConicalGradientElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\GradientsNPatterns\SVGGradientElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\GradientsNPatterns\SVGLinearGradientElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\GradientsNPatterns\SVGRadialGradientElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\GradientsNPatterns\SVGStopElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Others\SVGClipPathElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\Interfaces\ISVGDrawable.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathElement.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSeg.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegArcAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegArcRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegClosePath.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoCubic.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoCubicAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoCubicRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoCubicSmoothAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoCubicSmoothRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoQuadratic.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoQuadraticAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoQuadraticRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoQuadraticSmoothAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegCurvetoQuadraticSmoothRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegLinetoAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegLinetoHorizontalAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegLinetoHorizontalRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegLinetoRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegLinetoVerticalAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegLinetoVerticalRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegList.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegMovetoAbs.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Paths\SVGPathSegMovetoRel.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\DOMException.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\LiteStack.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\SVGColorExtractor.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\SVGException.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\SVGLengthConvertor.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\SVGStringExtractor.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\SVG\DOM\Utilities\SVGViewport.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\XML Parser\AttributeList.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\XML Parser\SVGParser.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Implementation\XML Parser\SmallXmlParser.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Interfaces\ISVGModify.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Interfaces\ISVGRenderer.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Interfaces\ISVGShape.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Math\SVGBezier.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Math\SVGBounds.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Math\SVGGeom.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Math\SVGMath.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGCombineMesh.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGGeomUtils.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGLineUtils.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGMesh.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGMeshCutter.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGMeshUtils.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Mesh\SVGSimplePath.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\Modifiers\SVGUVModifier.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGAsset.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGAssetImport.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGAtlas.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGCollider2D.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGDocumentAsset.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGImage.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGPath.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGRenderTexture.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGRenderer.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGSorter.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Core\SVGStrokeRenderer.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Debug\SVGDebug.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Debug\SVGDebugMesh.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Debug\SVGDebugPoints.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\Dict.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\Geom.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\Mesh.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\MeshUtils.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\PriorityHeap.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\PriorityQueue.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\Sweep.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\LibTessDotNet\Tess.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Utils\FileSizeFormatProvider.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Utils\SVGArrayUtils.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Utils\SVGShader.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Utils\SVGTransform2D.cs" />
+     <Compile Include="Assets\SVG Importer\Plugins\Utils\SVGUtils.cs" />
+     <Compile Include="Assets\Scripts\Environment\Trigger.cs" />
+     <Compile Include="Assets\Scripts\GameManager.cs" />
+     <Compile Include="Assets\Scripts\IAP.cs" />
+     <Compile Include="Assets\Scripts\Pickups\Magnet.cs" />
+     <Compile Include="Assets\Scripts\Player\Fire.cs" />
+     <Compile Include="Assets\Scripts\Player\GameLoop.cs" />
+     <Compile Include="Assets\Scripts\Player\Kill.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\Powerups\Powerup.cs" />
+     <Compile Include="Assets\Scripts\Powerups\PowerupManager.cs" />
+     <Compile Include="Assets\Scripts\ShareAndRate.cs" />
+     <Compile Include="Assets\Scripts\UI\GoogleScrollEffects.cs" />
+     <Compile Include="Assets\Scripts\UI\Leaderboard.cs" />
+     <Compile Include="Assets\Scripts\UI\Shader Effects\GaussianBlur.cs" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\UI\UILegacy.shader" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\UI\UI.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\cm_activity_full_screen_video.xml" />
+     <None Include="Assets\Plugins\Android\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\origin_picks_banner_mid.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\drawable\btnstyle.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Standard\StandardSVG.shader" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Solid Fill\SolidColorDiffuseOpaque.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\drawable\progressbar.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Standard\StandardSpecularSVG.shader" />
+     <None Include="Assets\Photon Unity Networking\link.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\proguard-project.txt" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\activity_picks_browser.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\values-zh-rTW\values-zh-rTW.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\drawable\vast_progress_style.xml" />
+     <None Include="Assets\Movinarc\PackageUninstaller\README.txt" />
+     <None Include="Assets\Plugins\Photon3Unity3D.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Solid Fill\SolidColorMultiply.shader" />
+     <None Include="Assets\Plugins\release_history.txt" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\values\values.xml" />
+     <None Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Utils\Reorderable List Field\README.txt" />
+     <None Include="Assets\AutoSave\ReadMe.txt" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\cm_activity_picks_interstitial.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\anim\loading_animation.xml" />
+     <None Include="Assets\Plugins\Android\AppodealAndroidManifest.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Gradient Fill\GradientColorMultiply.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\origin_picks_banner_smail.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Solid Fill\SolidColorAdditive.shader" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Gradient Fill\GradientColorAlphaBlended.shader" />
+     <None Include="Assets\Scripts\UI\Shader Effects\GaussianBlurShader.shader" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Gradient Fill\GradientColorOpaque.shader" />
+     <None Include="Assets\SVG Importer\changelog.txt" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\cm_splash_time.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Solid Fill\SolidColorDiffuseAlphaBlended.shader" />
+     <None Include="Assets\Plugins\Pixelplacement\iTween\ReadMe!\ReadMe!.txt" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Gradient Fill\GradientColorAdditive.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\AndroidManifest.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\build.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Standard\UnitySVG.cginc" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\UI\UIMask.shader" />
+     <None Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Utils\Reorderable List Field\LICENSE.txt" />
+     <None Include="Assets\Photon Unity Networking\readme.txt" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\UI\UIMaskLegacy.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\drawable\btn_ad_bg.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\activity_picks_loading.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\cm_vast_small_view.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\cm_vast_ad_layout.xml" />
+     <None Include="Assets\SVG Importer\Plugins\LibTessDotNet\LibTessDotNet-LICENSE.txt" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\drawable\interstital_ad_body_bg.xml" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Solid Fill\SolidColorOpaque.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\layout\gps_dialog.xml" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\values-zh-rCN\values-zh-rCN.xml" />
+     <None Include="Assets\Photon Unity Networking\changelog.txt" />
+     <None Include="Assets\SVG Importer\Plugins\Shaders\Resources\Solid Fill\SolidColorAlphaBlended.shader" />
+     <None Include="Assets\Plugins\Android\cheetah-mobile\res\anim\advertisement.xml" />
+     <None Include="Assets\SVG Importer\Example Project\Curves Demo\Scripts\Utils\Reorderable List Field\Editor\Editor.ReorderableList.xml" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Purchasing">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityPurchasing/UnityEngine.Purchasing.dll</HintPath>
+ </Reference>
+ <Reference Include="Ionic.Zip.Unity">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/Ionic.Zip.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="Photon3Unity3D">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/Photon3Unity3D.dll</HintPath>
+ </Reference>
+ <Reference Include="Common">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/Bin/Common.dll</HintPath>
+ </Reference>
+ <Reference Include="Editor">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/Bin/Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Security">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/Bin/Security.dll</HintPath>
+ </Reference>
+ <Reference Include="Stores">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/Bin/Stores.dll</HintPath>
+ </Reference>
+ <Reference Include="Apple">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/Bin/Apple/Apple.dll</HintPath>
+ </Reference>
+ <Reference Include="Tizen">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/Bin/Tizen/Tizen.dll</HintPath>
+ </Reference>
+ <Reference Include="winrt">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/UnityPurchasing/winrt/winrt.dll</HintPath>
+ </Reference>
+ <Reference Include="websocket-sharp">
+ <HintPath>C:/Users/Navjot Singh/Documents/Spy.io/Assets/Plugins/WebSocket/websocket-sharp.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{545EFED6-FBAB-D342-B753-A7553368303F}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>

@@ -1,0 +1,46 @@
+fileFormatVersion: 2
+guid: 5cff33e8334d8c04fa6d7d695d7ce2fb
+timeCreated: 1468370043
+licenseType: Free
+NativeFormatImporter:
+  userData: "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?>\n<!-- Created
+    with Inkscape (http://www.inkscape.org/) -->\n\n<svg\n   xmlns:dc=\"http://purl.org/dc/elements/1.1/\"\n
+    \  xmlns:cc=\"http://creativecommons.org/ns#\"\n   xmlns:rdf=\"http://www.w3.org/1999/02/22-rdf-syntax-ns#\"\n
+    \  xmlns:svg=\"http://www.w3.org/2000/svg\"\n   xmlns=\"http://www.w3.org/2000/svg\"\n
+    \  xmlns:sodipodi=\"http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd\"\n   xmlns:inkscape=\"http://www.inkscape.org/namespaces/inkscape\"\n
+    \  width=\"744.09448819\"\n   height=\"1052.3622047\"\n   id=\"svg4754\"\n   version=\"1.1\"\n
+    \  inkscape:version=\"0.48.5 r10040\"\n   sodipodi:docname=\"Road.svg\">\n  <defs\n
+    \    id=\"defs4756\" />\n  <sodipodi:namedview\n     id=\"base\"\n     pagecolor=\"#ffffff\"\n
+    \    bordercolor=\"#666666\"\n     borderopacity=\"1.0\"\n     inkscape:pageopacity=\"0.0\"\n
+    \    inkscape:pageshadow=\"2\"\n     inkscape:zoom=\"0.49497475\"\n     inkscape:cx=\"918.72432\"\n
+    \    inkscape:cy=\"422.05156\"\n     inkscape:document-units=\"px\"\n     inkscape:current-layer=\"layer1\"\n
+    \    showgrid=\"false\"\n     inkscape:window-width=\"948\"\n     inkscape:window-height=\"1048\"\n
+    \    inkscape:window-x=\"963\"\n     inkscape:window-y=\"0\"\n     inkscape:window-maximized=\"1\"
+    />\n  <metadata\n     id=\"metadata4759\">\n    <rdf:RDF>\n      <cc:Work\n         rdf:about=\"\">\n
+    \       <dc:format>image/svg+xml</dc:format>\n        <dc:type\n           rdf:resource=\"http://purl.org/dc/dcmitype/StillImage\"
+    />\n        <dc:title />\n      </cc:Work>\n    </rdf:RDF>\n  </metadata>\n  <g\n
+    \    inkscape:label=\"Layer 1\"\n     inkscape:groupmode=\"layer\"\n     id=\"layer1\">\n
+    \   <g\n       id=\"g4518\"\n       transform=\"matrix(1.3324037,0,0,1.3324037,853.56133,-471.6373)\">\n
+    \     <rect\n         ry=\"0\"\n         y=\"771.70844\"\n         x=\"-764.23907\"\n
+    \        height=\"49.025928\"\n         width=\"830.63837\"\n         id=\"rect3067\"\n
+    \        style=\"fill:#1a1a1a;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:1.3327601;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         ry=\"0\"\n         y=\"807.04871\"\n         x=\"-764.46582\"\n
+    \        height=\"13.986796\"\n         width=\"831.25916\"\n         id=\"rect3067-5\"\n
+    \        style=\"fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.71213198;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"785.12537\"\n         x=\"-724.59442\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"785.12585\"\n         x=\"-612.78308\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203-7\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"785.12585\"\n         x=\"-492.33557\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203-7-6\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"784.81061\"\n         x=\"-373.05188\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203-7-6-1\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"785.12585\"\n         x=\"-263.2435\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203-7-6-1-8\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"784.81061\"\n         x=\"-147.86748\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203-7-6-1-9\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n      <rect\n         y=\"784.81061\"\n         x=\"-32.65686\"\n         height=\"4.1144547\"\n
+    \        width=\"59.24815\"\n         id=\"rect3203-7-6-1-2\"\n         style=\"fill:#e6e6e6;fill-opacity:1;fill-rule:nonzero;stroke:#1a1a1a;stroke-width:2.53450441;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none\"
+    />\n    </g>\n  </g>\n</svg>\n"
+  assetBundleName: 
+  assetBundleVariant: 
